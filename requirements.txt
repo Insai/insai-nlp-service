@@ -1,0 +1,6 @@
+Flask
+Flask-RESTful
+spacy
+pymongo
+flask-cors
+newspaper
